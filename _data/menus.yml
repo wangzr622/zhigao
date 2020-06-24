@@ -4,9 +4,9 @@
 # run. So please, fill in any custom menu entry here.
 header:
 - title: 关于我们
-  url: /#about
+  url: ../_includes/adress.html
 - title: 产品详情
-  url: /#services
+  url: ../_includes/members.html
 - title: Members
   url: /#members
 - title: History
