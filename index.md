@@ -3,8 +3,7 @@ layout: home
 header:
   title: 山西省志高矿山机械有限责任公司
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    专业矿山机械，助力企业腾飞！
   action: # action button is optional
     label: Find Out More
     url: '#about'
