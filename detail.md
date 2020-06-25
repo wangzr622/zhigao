@@ -1,0 +1,76 @@
+---
+layout: home
+header:
+  title: 山西省志高矿山机械有限责任公司
+  text: >
+    专业矿山机械，助力企业腾飞！
+  action: # action button is optional
+    label: Find Out More
+    url: '#about'
+
+
+sections:
+  
+  - type: portfolio.html
+    # this section has always ID 'portfolio'
+    #section_id: portfolio
+    #background_style: bg-dark
+    projects:
+      - title: Project 1
+        text: This is a very short project description.
+        # the images are located in:
+        # img/portfolio/fullsize
+        # img/portfolio/thumbnails
+        icon: 1.jpg
+        url: '#'
+      - title: Project 2
+        text: This is a very short project description.
+        icon: 2.jpg
+        url: '#'
+      - title: Project 3
+        text: This is a very short project description.
+        icon: 3.jpg
+        url: '#'
+      - title: Project 4
+        text: This is a very short project description.
+        icon: 4.jpg
+        url: '#'
+      - title: Project 5
+        text: This is a very short project description.
+        icon: 5.jpg
+        url: '#'
+      - title: Project 6
+        text: This is a very short project description.
+        icon: 6.jpg
+        url: '#'
+
+  - type: aside.html
+    section_id: aside
+    title: Free Download at Start Bootstrap!
+    actions:
+      - title: Download Now!
+        url: https://startbootstrap.com/themes/creative/
+        class: btn-light
+
+  - type: contact.html
+    section_id: contacts
+    title: Let's Get In Touch!
+    text: >-
+      Ready to start your next project with us? Give us a call or send us an email
+      and we will get back to you as soon as possible!
+    actions:
+    - title: +1 (202) 555-014
+      icon: fa-phone
+    - title: E-Mail
+      icon: fa-envelope
+      url: mailto:contact@yourwebsite.com
+    - title: Twitter
+      icon: fa-twitter
+      icon_type: fab
+      url: '#'
+    - title: Facebook
+      icon: fa-facebook
+      icon_type: fab
+      url: '#'
+
+---
