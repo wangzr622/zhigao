@@ -21,36 +21,40 @@ sections:
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
+        icon: IMG_6457.JPG
         url: '#'
       - title: Project 2
         text: This is a very short project description.
-        icon: 2.jpg
+        icon: IMG_6456.JPG
         url: '#'
       - title: Project 3
         text: This is a very short project description.
-        icon: 3.jpg
+        icon: IMG_6458.JPG
         url: '#'
       - title: Project 4
         text: This is a very short project description.
-        icon: 4.jpg
+        icon: IMG_6459.JPG
         url: '#'
       - title: Project 5
         text: This is a very short project description.
-        icon: 5.jpg
+        icon: IMG_6460.JPG
         url: '#'
       - title: Project 6
         text: This is a very short project description.
-        icon: 6.jpg
+        icon: IMG_6461.JPG
         url: '#'
-
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
+      - title: Project 7
+        text: This is a very short project description.
+        icon: IMG_6462.JPG
+        url: '#'
+      - title: Project 8
+        text: This is a very short project description.
+        icon: IMG_6463.JPG
+        url: '#'
+      - title: Project 9
+        text: This is a very short project description.
+        icon: IMG_6464.JPG
+        url: '#'
 
   - type: contact.html
     section_id: contacts
