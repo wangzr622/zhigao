@@ -44,7 +44,7 @@ sections:
         icon: IMG_6461.JPG
         url: '#'
       - title: Project 7
-        text: 矿山专用锤头-镶合金锤头
+        text: 矿山专用锤头-高铬合金锤头
         icon: IMG_6462.JPG
         url: '#'
       - title: Project 8
