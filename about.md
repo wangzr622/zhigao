@@ -3,7 +3,7 @@ layout: page
 title: 关于我们
 #background_style: bg-info
 background_image: url('assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg')
-# Add a link to the the top menu
+
 menus:
   header:
     title: 关于我们
@@ -23,5 +23,3 @@ sections:
     title: Phones
     text: >
       15735078255
-#  background_style: bg-info
-#  text_style: text-left text-white
